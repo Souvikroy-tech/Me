@@ -4,7 +4,7 @@ export default function Education() {
       number: "01",
       period: "EARLY EDUCATION",
       title: "Primary School",
-      school: "RAJA RAMMOHON CHILDRENS HAPPY HOME,HALDIBARI,COOCH BEHAR",
+      school: "RAJA RAMMOHON CHILDRENS HAPPY HOME,HALDIBARI,COOCHBEHAR",
       detail: "Nursery & Primary Education",
       status: "COMPLETED",
     },
