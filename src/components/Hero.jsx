@@ -9,12 +9,12 @@ export default function Hero() {
       </div>
 
       <div className="hero-content">
-        <p className="eyebrow reveal">HELLO, I'M SOUVIK ROY</p>
+        <p className="eyebrow reveal">HELLO,I AM</p>
 
         <h1 className="hero-title reveal">
-          DIGITAL
+          SOUVIK
           <br />
-          <span>BUILDER</span>
+          <span>ROY</span>
         </h1>
 
         <div className="hero-bottom reveal">
