@@ -1,11 +1,7 @@
 'use strict';
-
-// Local-only interactions: no analytics, external requests, cookies or storage.
 const themeButton = document.querySelector('.theme-toggle');
 const themeIcon = document.querySelector('.theme-icon');
 const themeLabel = document.querySelector('.theme-label');
-
-// Manual theme toggle; deliberately does not persist a preference or store visitor data.
 if (themeButton) {
   themeButton.addEventListener('click', () => {
     const darkEnabled = document.documentElement.dataset.theme !== 'dark';
