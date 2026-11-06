@@ -7,7 +7,7 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.reveal{opacity:1;transform:none}}
 
 
-/* Accessible manual dark mode. Theme choice stays in memory only; no browser storage is used. */
+
 .header-actions{display:flex;align-items:center;gap:12px;margin-left:auto;margin-right:clamp(20px,3vw,46px)}
 .theme-toggle{display:inline-flex;align-items:center;gap:9px;padding:10px 14px;border:1px solid var(--line);border-radius:30px;background:transparent;color:var(--ink);font-size:12px;font-weight:700;cursor:pointer;transition:background .2s,border-color .2s,color .2s}
 .theme-toggle:hover{border-color:var(--blue);background:var(--sky)}
